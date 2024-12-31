@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "Balance": 42069,
+      "CardNumber": 2682424,
+      "CreditScore": 750,
+      "Id": 20020105,
+      "IsAdmin": true,
+      "Name": "Busher Abo Dan",
+      "Password": "AboDan"
+    },
+    {
+      "Balance": 42069,
+      "CardNumber": 123456789,
+      "Id": 19970301,
+      "Name": "Hazem Abo Dan",
+      "Password": "AboDan",
+      "CreditScore": 750
+    }
+  ],
+  "invoices": [
+    {
+      "CompanyName": "AboDan.co",
+      "BankGiro": 2682424,
+      "OCR": 123456789,
+      "AmountToPay": 420,
+      "IsPayable": true
+    },
+    {
+      "CompanyName": "AboDan.co",
+      "BankGiro": 2682424,
+      "OCR": 987654321,
+      "AmountToPay": 6918,
+      "IsPayable": true
+    }
+  ]
+}
