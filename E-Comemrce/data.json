@@ -5,6 +5,7 @@
       "CardNumber": 2682424,
       "CreditScore": 750,
       "Id": 20020105,
+      "CCV": 1234,
       "IsAdmin": true,
       "Name": "Busher Abo Dan",
       "Password": "AboDan"
@@ -13,6 +14,7 @@
       "Balance": 42069,
       "CardNumber": 123456789,
       "Id": 19970301,
+      "CCV": 4321,
       "Name": "Hazem Abo Dan",
       "Password": "AboDan",
       "CreditScore": 750

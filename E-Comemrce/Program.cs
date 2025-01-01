@@ -1,6 +1,7 @@
 ﻿using E_Commerce;
 using Spectre.Console;
 using System.Security.Cryptography.X509Certificates;
+using System.Text.Json;
 
 namespace E_Comemrce
 {
@@ -11,6 +12,22 @@ namespace E_Comemrce
             Console.WriteLine("Hello, World!");
 
             Store<string> _store = new Store<string>();
+
+            string dataJsonFilePath = "data.json";
+
+            try
+            {
+                string allDatafromJsonType = File.ReadAllText(dataJsonFilePath);
+                MyDB myDB = JsonSerializer.Deserialize<MyDB>(allDatafromJsonType)!;
+                
+                _store.Cards.AddRange(myDB.AllUsersFromDB);
+                AnsiConsole.MarkupLine("[green]Data loaded successfully![/]");
+            }
+            catch (Exception ex)
+            {
+                AnsiConsole.MarkupLine($"[red]Error loading data: {ex.Message}[/]");
+            }
+
            _store.Products.Add(new Product("Pistol", 299.00, "Guns", "Firearm"));
             _store.Products.Add(new Product("Rifle", 699.00, "Guns", "Firearm"));
             _store.Users.Add( new User<string>("123".Trim(), "2682424".Trim(), "Busher Abo Dan"));

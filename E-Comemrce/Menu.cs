@@ -23,11 +23,14 @@ namespace E_Commerce
             while (running)
             {
             Console.WriteLine("Menu Entered****");
-            Console.WriteLine($"Hello: {User.Email}");
+            Console.WriteLine($"Hello: {User.Name}");
             Console.WriteLine("1. Add Product.");
             Console.WriteLine("2. Remove Product.");
             Console.WriteLine("3. Show Products.");
-            Console.WriteLine("Exit Application.");
+            Console.WriteLine("4. Exit Application.");
+            Console.WriteLine("5. Sort Products.");
+            Console.WriteLine("6. Select Product.");
+            Console.WriteLine("7. Show shopping cart.");
             var choice = Convert.ToChar(Console.ReadLine());
 
                 switch (choice)
@@ -46,13 +49,13 @@ namespace E_Commerce
                         return;
                         
                     case '5':
-
+                        _store.SortByProducts();
                         break;
                     case '6':
-                        
+                        SelectProduct();
                         break;
                     case '7':
-
+                        ShowProductList();
                         break;
                     case '8':
 
@@ -62,6 +65,37 @@ namespace E_Commerce
                         break;
                 }
 
+            }
+          void SelectProduct()
+          {
+            int ProductID = Utility.GetValidatedNumberInput("Enter Product ID:");
+            var product = _store.Products.FirstOrDefault(x => x.ProductId == ProductID);
+            if (product != null)
+            {
+                User.ProductList.Add(product);
+            }
+            else
+            {
+                    Console.WriteLine("Invalid Product ID. Could not select Product.");
+            }
+          }
+            void ShowProductList()
+            {
+                if (User.ProductList.Any())
+                {
+                    foreach (var product in User.ProductList)
+                    {
+
+                        int indexOfProducts = User.ProductList.IndexOf(product) + 1;
+
+
+                        AnsiConsole.MarkupLine($"[blue]{indexOfProducts}. Name:{product.ProductName}, Price:{product.Price:F2} ID:{product.ProductId}.\n Category:{product.Category}\n Description:{product.Description}![/]");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("No Products found, please add products to your cart.");
+                }
             }
         }
 
@@ -94,5 +128,6 @@ namespace E_Commerce
 
 
         }
+
     }
 }

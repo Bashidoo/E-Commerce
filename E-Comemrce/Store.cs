@@ -15,6 +15,7 @@ namespace E_Commerce
         
         public List<Product> Products { get; set; } = new List<Product>();
         public List <User<T>> Users { get; set; } = new List<User<T>>();
+        public List<CardInfo> Cards { get; set; } = new List<CardInfo>();
 
 
         public User<T>? UserLogin(string email, string password)
@@ -137,6 +138,8 @@ namespace E_Commerce
 
           
         }
+
+
 
         public void ShowProducts()
         {
