@@ -143,11 +143,21 @@ namespace E_Commerce
 
             if (Products.Any())
             {
+                // var productinList = Products.ForEach()
                 foreach (var product in Products)
                 {
-                    int indexOfProducts = Products.IndexOf(product);
+                    int indexOfProducts = Products.IndexOf(product) + 1;
+                    
+                    
                     AnsiConsole.MarkupLine($"[blue]{indexOfProducts}. Name:{product.ProductName}, Price:{product.Price:F2} ID:{product.ProductId}.\n Category:{product.Category}\n Description:{product.Description}![/]");
+                    
                 }
+
+               /* for (int i = 0; i < Products.Count; i++)
+                {
+                    var product = Products[i];
+                    AnsiConsole.MarkupLine($"[blue]{i}. Name:{product.ProductName}, Price:{product.Price:F2} ID:{product.ProductId}.\n Category:{product.Category}\n Description:{product.Description}![/]");
+                }*/
 
             }
             else
@@ -155,6 +165,7 @@ namespace E_Commerce
                 AnsiConsole.MarkupLine($"[red]No product found, please add products![/]");
 
             }
+            Console.WriteLine("-----------------");
         }
     }
 }

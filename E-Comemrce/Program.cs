@@ -10,9 +10,10 @@ namespace E_Comemrce
         {
             Console.WriteLine("Hello, World!");
 
-            Product product1 = new Product("Pistol", 299.00, "Guns", "Firearm");
             Store<string> _store = new Store<string>();
-            _store.Users.Add( new User<string>("123".Trim(), "2682424".Trim()));
+           _store.Products.Add(new Product("Pistol", 299.00, "Guns", "Firearm"));
+            _store.Products.Add(new Product("Rifle", 699.00, "Guns", "Firearm"));
+            _store.Users.Add( new User<string>("123".Trim(), "2682424".Trim(), "Busher Abo Dan"));
 
             if (_store.Users.Any())
             {

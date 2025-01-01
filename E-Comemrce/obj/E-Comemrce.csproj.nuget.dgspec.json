@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce\\E-Comemrce\\E-Comemrce.csproj": {}
+    "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\E-Comemrce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce\\E-Comemrce\\E-Comemrce.csproj": {
+    "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\E-Comemrce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce\\E-Comemrce\\E-Comemrce.csproj",
+        "projectUniqueName": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\E-Comemrce.csproj",
         "projectName": "E-Comemrce",
-        "projectPath": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce\\E-Comemrce\\E-Comemrce.csproj",
+        "projectPath": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\E-Comemrce.csproj",
         "packagesPath": "C:\\Users\\Busher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce\\E-Comemrce\\obj\\",
+        "outputPath": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

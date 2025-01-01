@@ -19,12 +19,17 @@ namespace E_Commerce
         public void ShowMenu(User<T> User)
         {
             bool running = true;
-            char choice = Convert.ToChar(Console.ReadKey());
-
-            Console.WriteLine("Menu Entered****");
 
             while (running)
             {
+            Console.WriteLine("Menu Entered****");
+            Console.WriteLine($"Hello: {User.Email}");
+            Console.WriteLine("1. Add Product.");
+            Console.WriteLine("2. Remove Product.");
+            Console.WriteLine("3. Show Products.");
+            Console.WriteLine("Exit Application.");
+            var choice = Convert.ToChar(Console.ReadLine());
+
                 switch (choice)
                 {
                     case '1':

@@ -9,6 +9,8 @@ namespace E_Comemrce
 {
     public class User<T>
     {
+
+        public string Name { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
 
@@ -17,8 +19,9 @@ namespace E_Comemrce
         public List<Product> ProductList { get; set; } = new List<Product>();
 
 
-        public User(string email, string password) 
+        public User(string email, string password, string name) 
         {
+            Name = name;
             Email = email;
             Password = password;
              
