@@ -31,6 +31,7 @@ namespace E_Commerce
             Console.WriteLine("5. Sort Products.");
             Console.WriteLine("6. Select Product.");
             Console.WriteLine("7. Show shopping cart.");
+            Console.WriteLine("8. Paying for shopping cart.");
             var choice = Convert.ToChar(Console.ReadLine());
 
                 switch (choice)
@@ -45,6 +46,7 @@ namespace E_Commerce
                         _store.ShowProducts();
                         break;
                     case '4':
+                        
                         running = false;
                         return;
                         
@@ -58,7 +60,7 @@ namespace E_Commerce
                         ShowProductList();
                         break;
                     case '8':
-
+                        _store.PayingForShoppingCart(User);
                         break;
                     case '9':
 

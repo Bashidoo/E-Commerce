@@ -44,6 +44,10 @@ namespace E_Comemrce
             {
                 Console.WriteLine($"Stored user: Email = {user.Email}, Password = {user.Password}");
             }
+            foreach (var CardInfo in _store.Cards)
+            {
+                Console.WriteLine($"CardNumber:{CardInfo.CardNumber}, CCV: {CardInfo.CCV} InternetPurchase: {CardInfo.InternetPurchase}");
+            }
 
             bool loggingIn = true;
              
@@ -69,12 +73,6 @@ namespace E_Comemrce
                 {
                     Console.WriteLine("Logging in failed.");
                 }
-
-
-
-
-
-
 
             }
         }

@@ -3,43 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Busher\\AppData\\Local\\SourceServer\\60d6d703078bc1ba04d16c0bf657fd29d8e3b9d212af027d23e5103ec70a064f\\E-Comemrce\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Busher\\AppData\\Local\\SourceServer\\60d6d703078bc1ba04d16c0bf657fd29d8e3b9d212af027d23e5103ec70a064f\\E-Comemrce\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\cardinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:cardinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|c:\\users\\busher\\desktop\\github\\e-commerce sql\\e-commerce\\e-comemrce\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F338A6-32C4-49A1-B2F4-3C7C6E5564FA}|E-Comemrce.csproj|solutionrelative:mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,19 +49,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "data.json",
-              "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\data.json",
-              "RelativeDocumentMoniker": "data.json",
-              "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\data.json",
-              "RelativeToolTip": "data.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-01T09:53:02.883Z",
+              "DocumentIndex": 0,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\Store.cs",
+              "RelativeDocumentMoniker": "Store.cs",
+              "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\Store.cs*",
+              "RelativeToolTip": "Store.cs*",
+              "ViewState": "AgIAAFkAAAAAAAAAAAA9wKQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:36:51.298Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -72,27 +73,41 @@
               "RelativeDocumentMoniker": "CardInfo.cs",
               "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\CardInfo.cs",
               "RelativeToolTip": "CardInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T09:44:06.24Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\data.json",
+              "RelativeDocumentMoniker": "data.json",
+              "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\data.json",
+              "RelativeToolTip": "data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T09:53:02.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Busher\\AppData\\Local\\SourceServer\\60d6d703078bc1ba04d16c0bf657fd29d8e3b9d212af027d23e5103ec70a064f\\E-Comemrce\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\60d6d703078bc1ba04d16c0bf657fd29d8e3b9d212af027d23e5103ec70a064f\\E-Comemrce\\Program.cs",
               "ToolTip": "C:\\Users\\Busher\\AppData\\Local\\SourceServer\\60d6d703078bc1ba04d16c0bf657fd29d8e3b9d212af027d23e5103ec70a064f\\E-Comemrce\\Program.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\60d6d703078bc1ba04d16c0bf657fd29d8e3b9d212af027d23e5103ec70a064f\\E-Comemrce\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADMAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T08:25:55.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "MyDB.cs",
               "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\MyDB.cs",
               "RelativeDocumentMoniker": "MyDB.cs",
@@ -105,20 +120,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Utility.cs",
               "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\Utility.cs",
               "RelativeDocumentMoniker": "Utility.cs",
               "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\Utility.cs",
               "RelativeToolTip": "Utility.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAA1wFwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA1wFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T02:33:22.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
@@ -132,25 +147,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Store.cs",
-              "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\Store.cs",
-              "RelativeDocumentMoniker": "Store.cs",
-              "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\Store.cs",
-              "RelativeToolTip": "Store.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAIwJoAAADbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T01:36:51.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",
               "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\Menu.cs",
               "RelativeToolTip": "Menu.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T02:52:48.034Z",
               "EditorCaption": ""
@@ -170,13 +172,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\E-Commerce SQL\\E-Commerce\\E-Comemrce\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAQwDwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDAAAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T02:52:21.971Z",
               "EditorCaption": ""

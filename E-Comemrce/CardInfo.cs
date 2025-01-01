@@ -8,11 +8,12 @@ namespace E_Comemrce
 {
     public class CardInfo
     {
-
+        public double CardNumber { get; set; }
         public double Balance { get; set; }
 
         public int CCV { get; set; }
 
+        public bool InternetPurchase { get; set; }
 
     }
 }

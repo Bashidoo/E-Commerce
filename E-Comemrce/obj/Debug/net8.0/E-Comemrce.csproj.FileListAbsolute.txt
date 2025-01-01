@@ -17,3 +17,4 @@ C:\Users\Busher\Desktop\Github\E-Commerce SQL\E-Commerce\E-Comemrce\bin\Debug\ne
 C:\Users\Busher\Desktop\Github\E-Commerce SQL\E-Commerce\E-Comemrce\bin\Debug\net8.0\E-Comemrce.pdb
 C:\Users\Busher\Desktop\Github\E-Commerce SQL\E-Commerce\E-Comemrce\obj\Debug\net8.0\E-Comemrce.genruntimeconfig.cache
 C:\Users\Busher\Desktop\Github\E-Commerce SQL\E-Commerce\E-Comemrce\obj\Debug\net8.0\ref\E-Comemrce.dll
+C:\Users\Busher\Desktop\Github\E-Commerce SQL\E-Commerce\E-Comemrce\bin\Debug\net8.0\data.json

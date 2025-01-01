@@ -139,7 +139,48 @@ namespace E_Commerce
           
         }
 
+        public void PayingForShoppingCart(User<T> user)
+        {
+            if (!user.ProductList.Any())
+            {
+                Console.WriteLine("There are no items to buy for.");
+            }
+            else
+            {
+               
+                  double priceOfTotalProducts = (double)user.ProductList.Sum(x => x.Price);
+                
+                
+                var cardNumber = Utility.GetValidatedDoubleNumberInput("Please type card Number:");
+                var CCV = Utility.GetValidatedNumberInput("Please type CCV:");
+                var usableCardInfo = Cards.FirstOrDefault(x => x.CardNumber == cardNumber && x.CCV == CCV && x.InternetPurchase == true);
 
+                if (usableCardInfo != null)
+                {
+
+                    if (usableCardInfo.Balance >= priceOfTotalProducts)
+                    {
+                        usableCardInfo.Balance -= priceOfTotalProducts;
+                        // Insert Loading animation.
+                        Console.WriteLine("Order has been placed!***********");
+
+                        user.ProductList.Clear();
+                    }
+
+                }
+                else
+                {
+                    Console.WriteLine("Card Info Invalid, if card info is correct. Contact bank to turn on internet purchase");
+                }
+
+            }
+
+
+            
+            
+        }
+
+        
 
         public void ShowProducts()
         {
