@@ -70,7 +70,7 @@ namespace E_Commerce
                     if (!string.IsNullOrEmpty(input))
                     {
 
-                        number = Convert.ToInt32(input);
+                        number = Convert.ToDouble(input);
                         return number;
 
                     }

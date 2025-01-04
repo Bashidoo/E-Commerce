@@ -14,10 +14,13 @@ namespace E_Commerce
         public int ProductId { get; set; }    
         public string? ProductName { get; set; }
 
-        public double? Price { get; set; }
+        public decimal? Price { get; set; }
+        public Product() // To help EF core
+        {
+        }
 
-        
-        public Product(string productname, double price, string category, string description)
+
+        public Product(string productname, decimal price, string category, string description)
         {
             ProductName = productname;
             Price = price;

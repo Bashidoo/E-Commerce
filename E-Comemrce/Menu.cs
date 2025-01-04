@@ -110,6 +110,7 @@ namespace E_Commerce
             string ProductName = Utility.GetValidatedStringInput("Enter Product Name:");
 
             double Price = Utility.GetValidatedDoubleNumberInput("Enter Product Price:");
+            decimal PriceDecimal = Convert.ToDecimal(Price);
 
             string Category = Utility.GetValidatedStringInput("Enter Product Category:");
 
@@ -117,7 +118,7 @@ namespace E_Commerce
 
             try
             {
-             Product newProduct = new Product(ProductName, Price, Category, Description);
+             Product newProduct = new Product(ProductName, PriceDecimal, Category, Description);
 
                 _store.AddProduct(newProduct);
             }
